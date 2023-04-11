@@ -21,7 +21,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author 
+ * @author Taha Shaik
  */
 public class sales extends javax.swing.JFrame {
 
