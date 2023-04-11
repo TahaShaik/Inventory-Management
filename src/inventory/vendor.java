@@ -17,7 +17,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author 
+ * @author Taha Shaik
  */
 public class vendor extends javax.swing.JFrame {
 
